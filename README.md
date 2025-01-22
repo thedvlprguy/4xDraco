@@ -1,6 +1,6 @@
 # 4xDraco - Pentesting Tool Collection
 
-A collection of essential pentesting and security tools combined into one easy-to-use script.
+A collection of best essential pentesting and security tools combined into one easy-to-use script.
 
 ## ⚠️ Disclaimer
 
